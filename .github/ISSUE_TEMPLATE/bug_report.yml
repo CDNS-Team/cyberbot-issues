@@ -33,7 +33,6 @@ body:
     id: errors
     attributes:
       label: Какую ошибку выдал вам бот?
-      multiple: true
       options:
         - Ошибка 0001
         - Ошибка 0002
